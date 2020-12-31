@@ -1,15 +1,25 @@
-import React from "react";
-import "./styles.css";
-import styles from "./index.module.less";
+import React from 'react';
+import logo from './logo.svg';
+import styles from './App.module.less';
+import './App.css';
 
-export default function App() {
-  return (
-    <div className="App">
-      <h1>Hello KKT</h1>
-      <h2>Start editing to see some magic happen!</h2>
-      <a className={styles.github} href="https://github.com/kktjs/kkt">
-        Github kkt
+const App = () => (
+  <div className="App">
+    <header className="App-header">
+      <img src={logo} className="App-logo" alt="logo" />
+      <p className={styles.app}>
+        Edit <code>src/App.js</code> and save to reload.
+      </p>
+      <a
+        className="App-link"
+        href="https://reactjs.org"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Learn React
       </a>
-    </div>
-  );
-}
+    </header>
+  </div>
+);
+
+export default App;
