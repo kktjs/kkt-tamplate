@@ -1,7 +1,7 @@
 kkt-codesandbox-tamplate
 ---
 
-![Build](https://github.com/kktjs/kkt-codesandbox-tamplate/workflows/Build/badge.svg)
+[![Build](https://github.com/kktjs/kkt-codesandbox-tamplate/workflows/Build/badge.svg)](https://github.com/kktjs/kkt-codesandbox-tamplate/actions)
 
 [Codesandbox](https://codesandbox.io/s/kkt-xk96r) tamplate, Example: https://codesandbox.io/s/kkt-xk96r 
 
