@@ -5,7 +5,7 @@ kkt-tamplate
 
 [Codesandbox](https://codesandbox.io/s/kkt-xk96r) tamplate, Example: https://codesandbox.io/s/kkt-xk96r 
 
-[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://githubbox.com/kktjs/kkt-tamplate)
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/github/kktjs/kkt-tamplate)
 
 Import the [kkt](https://github.com/kktjs/kkt) project from Github to [Codesandbox](https://codesandbox.io/s/kkt-xk96r).
 
