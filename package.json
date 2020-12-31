@@ -11,7 +11,7 @@
   "devDependencies": {
     "@kkt/less-modules": "6.0.11",
     "kkt": "6.0.11",
-    "typescript": "3.8.3"
+    "typescript": "4.1.3"
   },
   "scripts": {
     "start": "kkt start",
