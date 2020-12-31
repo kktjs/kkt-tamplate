@@ -1,5 +1,5 @@
 {
-  "template": "kkt",
+  "template": "kkt-tamplate",
   "container": {
     "port": 3000,
     "startScript": "start",
