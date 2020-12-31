@@ -10,14 +10,25 @@ const App = () => (
       <p className={styles.app}>
         Edit <code>src/App.js</code> and save to reload.
       </p>
-      <a
-        className="App-link"
-        href="https://reactjs.org"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Learn React
-      </a>
+      <div>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
+        &nbsp;&nbsp;
+        <a
+          className="App-link"
+          href="https://github.com/kktjs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn KKT
+        </a>
+      </div>
     </header>
   </div>
 );
