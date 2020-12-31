@@ -1,9 +1,8 @@
 {
-  "name": "kkt-template",
+  "name": "kkt",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
-  "main": "src/index.js",
+  "description": "kkt example server starter project",
+  "keywords": ["react", "kkt", "template", "kkt-template"],
   "dependencies": {
     "react": "17.0.1",
     "react-dom": "17.0.1"
@@ -19,10 +18,5 @@
     "test": "kkt test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
