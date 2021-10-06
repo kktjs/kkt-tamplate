@@ -20,8 +20,7 @@
   "scripts": {
     "start": "kkt start",
     "build": "kkt build",
-    "test": "kkt test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "kkt test --env=jsdom"
   },
   "browserslist": [
     ">0.2%",
