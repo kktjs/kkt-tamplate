@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@kkt/less-modules": "6.11.0",
-    "kkt": "6.11.0"
+    "kkt": "7.0.0"
   },
   "scripts": {
     "start": "kkt start",
